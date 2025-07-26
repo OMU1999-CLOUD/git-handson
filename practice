@@ -39,4 +39,5 @@ git log – View commit history
 git show – Show details of a specific commit
 git diff – See unstaged changes
 git blame – See who last modified each line
-These commands form the backbone of daily DevOps workflows—from managing infrastructure code to collaborating on deployment scripts. Want me to tailor a cheat sheet for your portfolio or CI/CD setup
+
+the end
